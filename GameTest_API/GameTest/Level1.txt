@@ -1,0 +1,2 @@
+outerBoarder1.txt
+0 405 420 100 10 -1
